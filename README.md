@@ -61,16 +61,11 @@
 
 ### Additional Features
 - `!tip` → Gives a random financial tip.
-- `!convert <amount> <from_currency> <to_currency>` → Converts currency.  
-  **Example:** `!convert 100 USD INR`
-- `!setcurrency <currency>` → Sets default currency for tracking.  
-  **Example:** `!setcurrency EUR`
 
 ## Technologies Used
 - **Node.js** - Backend runtime
 - **MongoDB** - Database for storing user expenses
 - **Discord.js** - Discord bot framework
-- **Axios** - API requests for currency conversion
 
 ## Contributing
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
