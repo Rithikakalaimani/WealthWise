@@ -10,8 +10,6 @@
 - Get weekly, biweekly, and monthly spending summaries.
 - Receive financial tips and insights.
 - Identify top spending categories.
-- Currency conversion support.
-- Set a default currency for expense tracking.
 
 ## Installation
 
